@@ -1,0 +1,8 @@
+C:\Users\graha\Desktop\repos\SelectionStatementsExercise\bin\Debug\SelectionStatementsExercise.exe.config
+C:\Users\graha\Desktop\repos\SelectionStatementsExercise\bin\Debug\SelectionStatementsExercise.exe
+C:\Users\graha\Desktop\repos\SelectionStatementsExercise\bin\Debug\SelectionStatementsExercise.pdb
+C:\Users\graha\Desktop\repos\SelectionStatementsExercise\obj\Debug\SelectionStatementsExercise.csproj.AssemblyReference.cache
+C:\Users\graha\Desktop\repos\SelectionStatementsExercise\obj\Debug\SelectionStatementsExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\graha\Desktop\repos\SelectionStatementsExercise\obj\Debug\SelectionStatementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\graha\Desktop\repos\SelectionStatementsExercise\obj\Debug\SelectionStatementsExercise.exe
+C:\Users\graha\Desktop\repos\SelectionStatementsExercise\obj\Debug\SelectionStatementsExercise.pdb
